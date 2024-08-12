@@ -86,9 +86,9 @@ body {
 }
 
 .headline {
-  font-size: 3em; /* Increase font size */
-  font-family: sans-serif, cursive; /* Apply a cursive font */
-  color: hsl(60, 2%, 25%); /* Set an eye-catching color */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+  font-size: 3em;
+  font-family: sans-serif, cursive;
+  color: hsl(60, 2%, 25%);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
   margin-bottom: 10px;
 }
